@@ -28,6 +28,8 @@ Highlights:
 
 -Achieved R² = 0.956 using Random Forest
 
+-5-Fold Cross-Validation confirmed robust model performance (CV R² mean ≈ 0.887, Std ≈ 0.069) 
+
 -visualized Predicted vs Actual Prices
 
 -Visualized top 10 most influential features
