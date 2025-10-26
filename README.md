@@ -26,7 +26,7 @@ Key Steps:
 
 Highlights:
 
--Achieved R² = 0.957 using Random Forest
+-Achieved R² = 0.956 using Random Forest
 
 -visualized Predicted vs Actual Prices
 
@@ -39,7 +39,7 @@ Highlights:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊Many More Projects yet to come soon
+📊Many More Projects yet to come soon!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## 👤 Author:
