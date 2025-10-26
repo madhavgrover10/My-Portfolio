@@ -11,11 +11,17 @@ Build a machine learning model to predict car prices based on various features s
 Key Steps:
 
 Data cleaning and preprocessing
+
 -Feature engineering (brand extraction and correction)
+
 -One-hot and target encoding for categorical data
+
 -Model comparison: Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, and Gradient Boosting
+
 -Evaluation using R², MAE, MSE, and RMSE
+
 -Predicted vs Actual Prices Visualization
+
 -Feature importance visualization
 
 Highlights:
