@@ -30,7 +30,7 @@ RMSE = 1871
 
 MAE = 1287
 
--5-Fold Cross-Validation: Mean R² ≈ 0.887, Std ≈ 0.069 
+-5-Fold Cross-Validation: Mean R² = 0.887, Std = 0.069 
 
 Key predictors: engine size, highwaympg, horsepower, brand, and curb weight
 
