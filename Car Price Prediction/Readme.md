@@ -16,7 +16,9 @@ Data cleaning and preprocessing (brand extraction, encoding, scaling)
 
 Trained multiple models: Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, Gradient Boosting
 
-Evaluated performance using R², RMSE, and MAE
+Evaluated performance using R², RMSE, MAE and cross validation
+
+Visualized Predicted vs Actual Prices and Top 10 Most Influential Features
 
 ## 📊 Results
 
