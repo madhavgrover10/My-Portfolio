@@ -22,10 +22,16 @@ Evaluated performance using R², RMSE, and MAE
 
 Random Forest performed best:
 
-R² = 0.957
+Test Set:
 
-RMSE = 1845
+R² = 0.956
 
-MAE = 1266
+RMSE = 1871
+
+MAE = 1287
+
+-5-Fold Cross-Validation: Mean R² ≈ 0.887, Std ≈ 0.069 
 
 Key predictors: engine size, highwaympg, horsepower, brand, and curb weight
+
+##Author:Madhav Grover
