@@ -24,8 +24,8 @@ Random Forest performed best:
 
 R² = 0.957
 
-RMSE = 1852
+RMSE = 1845
 
-MAE = 1285
+MAE = 1266
 
-Key predictors: engine size, horsepower, brand, and curb weight
+Key predictors: engine size, highwaympg, horsepower, brand, and curb weight
