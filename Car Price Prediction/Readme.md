@@ -4,9 +4,7 @@ CarPrice_Assignment.csv → Original dataset
 
 Car_Price_Prediction.ipynb → Jupyter Notebook with full data cleaning, feature engineering, model building, and evaluation
 
-car_price_prediction.py → Python script version of the project (optional)
-
-visualizations/ → Folder containing plots (e.g., Actual vs Predicted prices, Feature Importance)
+Data Dictionary -carprices.xlsx → Excel file explaining the features present in the CarPrice_Assignment.csv dataset
 
 ## 📘 Project Overview
 
