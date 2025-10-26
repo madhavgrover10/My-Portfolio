@@ -43,10 +43,9 @@ Highlights:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## 👤 Author:
- 
  ### Madhav Grover
  
- #### Data Science & Machine Learning Enthusiast
+ Data Science & Machine Learning Enthusiast
 
 🌐 Connect with Me
 
