@@ -18,7 +18,7 @@ Key Steps:
 
 -Model comparison: Linear Regression, Ridge, Lasso, Decision Tree, Random Forest, and Gradient Boosting
 
--Evaluation using R², MAE, MSE, and RMSE
+-Evaluation using R², MAE, MSE, RMSE and Cross-Validation
 
 -Predicted vs Actual Prices Visualization
 
