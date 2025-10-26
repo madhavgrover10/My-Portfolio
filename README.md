@@ -1,7 +1,7 @@
 # My-Portfolio
 A curated collection of my Data Science and Machine Learning projects — showcasing skills in data analysis, feature engineering, and model development.
 
-🚗 1. Car Price Prediction
+## 🚗 1. Car Price Prediction
 
 📁 Folder: Car-Price-Prediction
 
