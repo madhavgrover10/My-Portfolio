@@ -21,8 +21,11 @@ Data cleaning and preprocessing
 Highlights:
 
 -Achieved R² = 0.957 using Random Forest
+
 -visualized Predicted vs Actual Prices
+
 -Visualized top 10 most influential features
+
 -Compared baseline and regularized regression models
 
 
