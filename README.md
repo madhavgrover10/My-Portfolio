@@ -5,12 +5,8 @@ A curated collection of my Data Science and Machine Learning projects — showca
 
 📁 Folder: Car-Price-Prediction
 
-------
-
 Goal:
 Build a machine learning model to predict car prices based on various features such as engine specifications, fuel type, and brand.
-
-------
 
 Key Steps:
 
@@ -22,8 +18,6 @@ Data cleaning and preprocessing
 -Predicted vs Actual Prices Visualization
 -Feature importance visualization
 
-------
-
 Highlights:
 
 -Achieved R² = 0.957 using Random Forest
@@ -31,7 +25,6 @@ Highlights:
 -Visualized top 10 most influential features
 -Compared baseline and regularized regression models
 
-------
 
 🧾 Skills used: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 
