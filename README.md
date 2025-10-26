@@ -42,6 +42,10 @@ Highlights:
 📊Many More Projects yet to come soon
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 👤 Author:
+ Madhav Grover
+ Data Science & Machine Learning Enthusiast
+
 🌐 Connect with Me
 
 📎 LinkedIn:
