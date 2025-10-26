@@ -42,11 +42,11 @@ Highlights:
 📊Many More Projects yet to come soon
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
- # 👤 Author:
+ ## 👤 Author:
  
- #nMadhav Grover
+ ### Madhav Grover
  
- # Data Science & Machine Learning Enthusiast
+ #### Data Science & Machine Learning Enthusiast
 
 🌐 Connect with Me
 
