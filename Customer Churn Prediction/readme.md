@@ -52,13 +52,13 @@ Plotted Churn distribution, ROC Curve, and Feature Importance (Permutation Impor
 
 ## 🔍 Key Insights
 
--Customers with Fiber Optic Internet and Month-to-Month contracts are more likely to churn.
+-Tenure (how long a customer has been with the company) is a strong indicator of loyalty and plays a major role in predicting churn.
 
--Tenure (how long a customer has been with the company) is a strong indicator of loyalty.
+-The most influential predictors of churn include Internet Service Type, Tenure, Tech Support, Online Security, and Contract Type.
 
--Tech Support and Online Security availability reduce churn probability significantly.
+-The combination of Contract Type, Monthly Charges, and Tenure provides the highest overall predictive power in the model.
 
--The combination of Contract Type, Monthly Charges, and Tenure provides the highest predictive power.
+-Further analysis (e.g., SHAP values) could help determine the directional impact of these features on customer churn.
 
 📈 Visuals Included
 
