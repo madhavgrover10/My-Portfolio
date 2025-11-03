@@ -40,6 +40,67 @@ Highlights:
 🧾 Skills used: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 2. 📞Telecom Customer Churn Prediction
+
+📁 Folder:Customer Churn Prediction
+
+Goal:
+Build a machine learning model to predict customer churn for a telecom company and identify the key factors influencing customer retention.
+
+🎯 Objectives
+
+Analyze customer behavior and service usage patterns
+
+Handle class imbalance and optimize recall for churn detection
+
+Compare multiple machine learning models
+
+Identify key factors driving churn
+
+🧩 Dataset
+
+Source: Telco Customer Churn Dataset (Kaggle)
+
+Key Features:
+
+tenure, MonthlyCharges, Contract, PaymentMethod, InternetService
+
+Derived features like avg_charge_per_tenure, tenure_monthlycharges, is_long_term
+
+Key Steps:
+
+Data loading, exploration, and visualization of churn distribution
+
+Handling missing values and data type conversions
+
+Encoding categorical variables using Label Encoding and One-Hot Encoding
+
+Feature engineering: created tenure-based and interaction features
+
+Balancing data using SMOTE to address class imbalance
+
+Data scaling using StandardScaler
+
+Model comparison: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting
+
+Hyperparameter tuning using GridSearchCV for Gradient Boosting
+
+Model evaluation using Accuracy, ROC-AUC, Classification Report, and Confusion Matrix
+
+ROC Curve and Permutation Importance visualization
+
+Highlights:
+
+Achieved Test Accuracy = 0.79 and ROC-AUC = 0.844 using tuned Gradient Boosting
+
+Identified key drivers of churn such as Contract Type, Fiber Optic Internet, Tenure, and Monthly Charges
+
+Used SMOTE to effectively balance churn vs. non-churn classes
+
+Visualized Confusion Matrix, ROC Curve, and Top 10 Important Features
+
+🧾 Skills used: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Imbalanced-learn
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊Many More Projects yet to come soon!
 
