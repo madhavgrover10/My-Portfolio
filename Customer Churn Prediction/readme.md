@@ -1,15 +1,15 @@
-📂 Folder Contents
+## 📂 Folder Contents
 
 Telco-Customer-Churn.csv → Original dataset
 
 Telecom_Customer_Churn.ipynb → Complete Jupyter Notebook with EDA, feature engineering, model training, evaluation, and visualization
 
-📘 Project Overview
+## 📘 Project Overview
 
 This project focuses on predicting customer churn for a telecom company — identifying which customers are most likely to discontinue their service.
 The goal is to support business decision-making by detecting at-risk customers early, reducing churn, and improving customer retention.
 
-⚙️ Key Steps
+## ⚙️ Key Steps
 
 Data Understanding & Cleaning:
 
@@ -43,14 +43,14 @@ Visualization:
 
 Plotted Churn distribution, ROC Curve, and Feature Importance (Permutation Importance).
 
-📊 Results
+## 📊 Results
 
 ✅ Best Model: Tuned Gradient Boosting Classifier
 Metric	 Validation	  Test
 Accuracy	   0.81	    0.79
 ROC-AUC	     0.86	    0.844
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 -Customers with Fiber Optic Internet and Month-to-Month contracts are more likely to churn.
 
@@ -70,7 +70,7 @@ ROC-AUC curve
 
 Top 10 feature importance (bar chart)
 
-🧠 Business Value
+## 🧠 Business Value
 
 The model helps telecom companies:
 
@@ -80,6 +80,6 @@ Design targeted retention offers
 
 Reduce customer loss and improve revenue predictability
 
-🧾 Skills & Tools Used
+## 🧾 Skills & Tools Used
 
 Python, Pandas, NumPy, Scikit-learn, Imbalanced-learn (SMOTE), Matplotlib, Seaborn, GridSearchCV, Permutation Importance
