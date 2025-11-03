@@ -11,35 +11,35 @@ The goal is to support business decision-making by detecting at-risk customers e
 
 ## ⚙️ Key Steps
 
-Data Understanding & Cleaning:
+-Data Understanding & Cleaning:
 
 Handled missing TotalCharges values, dropped unnecessary identifiers, and ensured proper data types.
 
-Feature Engineering:
+-Feature Engineering:
 
 Created new variables such as tenure × MonthlyCharges, avg_charge_per_tenure, and is_long_term to capture customer behavior.
 
-Encoding & Scaling:
+-Encoding & Scaling:
 
 Applied Label Encoding for binary variables and One-Hot Encoding for multi-category features.
 
 Standardized numeric features using StandardScaler.
 
-Handling Class Imbalance:
+-Handling Class Imbalance:
 
 Used SMOTE (Synthetic Minority Oversampling Technique) to balance churn vs. non-churn customers.
 
-Model Training & Evaluation:
+-Model Training & Evaluation:
 
 Trained models: Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting.
 
 Tuned the Gradient Boosting model using GridSearchCV (5-fold CV).
 
-Evaluation Metrics:
+-Evaluation Metrics:
 
 Accuracy, ROC-AUC, Confusion Matrix, and Classification Report.
 
-Visualization:
+-Visualization:
 
 Plotted Churn distribution, ROC Curve, and Feature Importance (Permutation Importance).
 
