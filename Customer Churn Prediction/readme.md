@@ -47,10 +47,7 @@ Plotted Churn distribution, ROC Curve, and Feature Importance (Permutation Impor
 
 ✅ Best Model: Tuned Gradient Boosting Classifier
 
-| **Metric** | **Validation** | **Test** |
-| :--------- | :------------: | :------: |
-| Accuracy   |      0.81      |   0.79   |
-| ROC-AUC    |      0.86      |   0.844  |
+
 
 
 ## 🔍 Key Insights
