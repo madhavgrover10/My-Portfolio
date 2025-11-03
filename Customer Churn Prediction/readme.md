@@ -57,11 +57,11 @@ ROC-AUC	       0.86	          0.844
 
 -Customers with Fiber Optic Internet and Month-to-Month contracts are more likely to churn.
 
-=Tenure (how long a customer has been with the company) is a strong indicator of loyalty.
+-Tenure (how long a customer has been with the company) is a strong indicator of loyalty.
 
-=Tech Support and Online Security availability reduce churn probability significantly.
+-Tech Support and Online Security availability reduce churn probability significantly.
 
-=The combination of Contract Type, Monthly Charges, and Tenure provides the highest predictive power.
+-The combination of Contract Type, Monthly Charges, and Tenure provides the highest predictive power.
 
 📈 Visuals Included
 
