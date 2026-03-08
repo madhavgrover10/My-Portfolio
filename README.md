@@ -20,7 +20,7 @@ Build a deep learning model to automatically classify different types of metal s
 
 🧩 Dataset
 
-Source: NEU Metal Surface Defect Dataset
+Source: NEU Metal Surface Defect Dataset from Kaggle
 
 Defect Classes:
 
