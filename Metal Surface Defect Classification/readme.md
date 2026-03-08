@@ -1,6 +1,6 @@
 ## 📂 Folder Contents
 
-NEU-Metal-Surface-Defect-Dataset → Image dataset containing different types of metal surface defects
+NEU-Metal-Surface-Defect-Dataset from Kaggle → Image dataset containing different types of metal surface defects
 
 metal_surface_defect_classification.ipynb → Complete Jupyter Notebook including data preprocessing, CNN model development, training, evaluation, and visualization
 
